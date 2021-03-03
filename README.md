@@ -44,6 +44,6 @@ I'm a Software Developer!!
 
 [framework]: https://github.com/ThymonA/CoreV-Framework
 [mail]: mailto:contact@thymonarens.nl
-[discord]: https://discordapp.com/users/733686533873467463
+[discord]: https://discordapp.com/users/670792646494650408
 [repos]: https://github.com/ThymonA?tab=repositories
 [linkedin]: https://www.linkedin.com/in/thymonarens/
