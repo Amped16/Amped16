@@ -45,6 +45,4 @@
 [discord]: https://discordapp.com/users/670792646494650408
 
 [framework]: https://github.com/ThymonA/CoreV-Framework
-[mail]: mailto:contact@thymonarens.nl
-[repos]: https://github.com/ThymonA?tab=repositories
-[linkedin]: https://www.linkedin.com/in/thymonarens/
+[repos]: https://github.com/Amped16?tab=repositories
