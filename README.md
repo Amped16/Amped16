@@ -1,4 +1,4 @@
-### Hi there, I'm Amped - aka Amped Scripts 👋
+### Hi there, I'm Tim - aka Amped 👋
 
 
 [![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/733686533873467463)
