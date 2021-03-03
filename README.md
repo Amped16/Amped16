@@ -13,7 +13,7 @@ I'm a Software Developer!!
 
 ### Currently working on 👨‍💻
 
-[![MenuV](https://github-readme-stats.vercel.app/api/pin/?username=ThymonA&repo=menuv&q=2020)](https://github.com/ThymonA/menuv)
+[![as_carthief](https://github-readme-stats.vercel.app/api/pin/?username=Amped&repo=as_carthief&q=2020)](https://github.com/Amped16/as_carthief)
 
 ### Connect with me:
 
