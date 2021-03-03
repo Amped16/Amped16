@@ -1,7 +1,7 @@
 ### Hi there, I'm Tim - aka Amped 👋
 
 
-[![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/733686533873467463)
+[![Discord](https://img.shields.io/badge/Discord-Amped%230001-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/733686533873467463)
 
 ## I'm a Software Developer!!
 
