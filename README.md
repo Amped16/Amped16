@@ -1,6 +1,6 @@
 ### Hi there, I'm Amped - aka Amped Scripts 👋
 
-[![ThymonA](https://i.imgur.com/X5ocARk.png)](https://github.com/ThymonA)
+
 [![Discord](https://img.shields.io/badge/Discord-Tigo%239999-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/733686533873467463)
 
 ## I'm a Software Developer!!
@@ -42,7 +42,7 @@ I'm a Software Developer!!
 
 ### 📕 Stats
 
-<img align="left" alt="ThymonA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThymonA&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
+<img align="left" alt="Amped's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Amped&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
 
 [framework]: https://github.com/ThymonA/CoreV-Framework
 [mail]: mailto:contact@thymonarens.nl
