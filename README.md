@@ -41,8 +41,4 @@
 
 <img align="left" alt="Amped's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Amped&show_icons=true&theme=buefy&locale=en&title_color=a600ff&icon_color=ff0088&text_color=32004d" />
 
-[framework]: https://github.com/ThymonA/CoreV-Framework
-[mail]: mailto:contact@thymonarens.nl
 [discord]: https://discordapp.com/users/670792646494650408
-[repos]: https://github.com/ThymonA?tab=repositories
-[linkedin]: https://www.linkedin.com/in/thymonarens/
