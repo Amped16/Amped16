@@ -1,7 +1,7 @@
 ### Hi there, I'm Tim - aka Amped 👋
 
 
-[![Discord](https://img.shields.io/badge/Discord-Amped%230001-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/733686533873467463)
+[![Discord](https://img.shields.io/badge/Discord-Amped%230001-7289DA?logo=discord&style=for-the-badge)](https://discordapp.com/users/670792646494650408)
 
 ## I'm a Software Developer!!
 
@@ -17,9 +17,7 @@ I'm a Software Developer!!
 
 ### Connect with me:
 
-[<img align="left" alt="ThymonA | Mail" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/envelope.svg" />][mail]
-[<img align="left" alt="ThymonA | Discord" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/discord.svg" />][discord]
-[<img align="left" alt="ThymonA | LikedIn" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" />][linkedin]
+[<img align="left" alt="Amped | Discord" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/discord.svg" />][discord]
 
 <br />
 
