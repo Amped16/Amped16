@@ -7,7 +7,7 @@
 
 - 👨‍💻 I'm currently working on: [as_carthief](https://github.com/Amped16/as_carthief)
 - 📖 I love open source projects 💙
-- 👴 I'm currently 16 years old
+- 👴 I'm currently 17 years old
 - 🏫 I study ICT course
 
 ### Currently working on 👨‍💻
